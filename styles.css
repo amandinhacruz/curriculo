@@ -1,0 +1,30 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.navbar li {
+    padding:  1%;
+}
+
+.corpoPrincipal{
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+   
+}
+
+
+p {
+    text-align: justify;
+}
+
